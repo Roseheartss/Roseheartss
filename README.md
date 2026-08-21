@@ -8,3 +8,5 @@
 <img src="https://i.imgur.com/sRhIyyS.gif" width="25" />
  testing 4my main . . <img src="https://i.imgur.com/JS91pVU.gif" width="25" />
 <div id="header" align="center">
+<div align="center">
+how do I add pictures to this...

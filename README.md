@@ -9,4 +9,6 @@
  testing 4my main . . <img src="https://i.imgur.com/JS91pVU.gif" width="25" />
 <div id="header" align="center">
 <div align="center">
-how do I add pictures to this...
+HI TY TO @ xde3vin FOR TELLING ME HOW TO CODE A PICTURE, TOGETHER WE ALL SAY ARIGATO
+<p align="center"> <img src="https://i.pinimg.com/736x/6b/52/67/6b5267c46ddb31433d8a4987b3749c76.jpg" /> </p>
+

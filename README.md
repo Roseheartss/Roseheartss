@@ -9,9 +9,7 @@
  testing 4my main . . <img src="https://i.imgur.com/JS91pVU.gif" width="25" />
 <div id="header" align="center">
 <div align="center">
-TY TO THIS
- <a href="https://github.com/xde3vin" target="_blank"> PERSON
-  FOR HELP
+ty to <a href="https://github.com/xde3vin">@xde3vin</a> for help :3333333333
 <p align="center"> <img src="https://i.pinimg.com/736x/6b/52/67/6b5267c46ddb31433d8a4987b3749c76.jpg" /> </p>
 pls jump someone named 1x with: . the typ1ng qu1rk l1ke th1s :/HVYJ
 
